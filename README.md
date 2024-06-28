@@ -1,7 +1,7 @@
 ![Screenshot from 2024-02-27 11-38-25](https://github.com/Rajkumarkanthasamy/Shop-Now/assets/143165337/aef561a6-941c-42bf-8983-6bb70a47da28)
 ![Screenshot from 2024-02-27 11-38-51](https://github.com/Rajkumarkanthasamy/Shop-Now/assets/143165337/6886e3b6-be79-4ffa-9aae-4a7d948fa386)
  ### `Add products`
- ### `Add delete products`
+ ### `Delete products`
 ### `Increase product quantity`
 ### `Decrease product quantity`
 
